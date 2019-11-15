@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/mishs/Boostrap-4-Refresher-Design/issues"
   },
-  "homepage": "https://github.com/mishs/Boostrap-4-Refresher-Design#readme"
+  "homepage": "https://github.com/mishs/Boostrap-4-Refresher-Design#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
 }
